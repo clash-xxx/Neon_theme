@@ -11,7 +11,7 @@
 * 适配后端面板： [**v2board**](https://github.com/v2board/v2board) \ [**wyxboard**](https://github.com/wyx2685/v2board) \ [**xboard**](https://github.com/cedar2025/Xboard)
 * 主题频道：[🚀 Neon theme](https://t.me/Neonthemes)
 * 交流群组：[💬 Neon theme 主题交流群](https://t.me/Neontheme)
-* 在线客服：[🏄‍♂️ Neon theme ](https://t.me/@iii_bole)
+* 在线客服：[🏄‍♂️ Neon theme ](https://t.me/@kulesang)
 
 ## 在线预览
 
